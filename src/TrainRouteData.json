@@ -1,0 +1,36 @@
+{
+  "routes": [
+    {
+      "rt": "red",
+      "color": "#c60c30"
+    },
+    {
+      "rt": "brn",
+      "color": "#62361b"
+    },
+    {
+      "rt": "g",
+      "color": "#009b3a"
+    },
+    {
+      "rt": "y",
+      "color": "#f9e300"
+    },
+    {
+      "rt": "blue",
+      "color": "#00a1de"
+    },
+    {
+      "rt": "pink",
+      "color": "#e27ea6"
+    },
+    {
+      "rt": "orange",
+      "color": "#f9461c"
+    },
+    {
+      "rt": "purple",
+      "color": "#522398"
+    }
+  ]
+}
